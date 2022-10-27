@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| 아아아아 | 아아아아 | 아아아 |
+| 1 | 2 | 3 |
