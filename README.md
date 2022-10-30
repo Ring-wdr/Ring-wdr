@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,10 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-|아아|카페라떼|카페모카|밥|
-|---|---|---|---|
-|내용 1|내용 2|내용 3|내용 4|
-|내용 5|내용 6|내용 7|내용 8|
-|내용 9|내용 10|내용 11|내용 12|
+- 🌱 I’m currently learning JavaScript(ES6) and looking for job using JavaScript.
+
+|구분|카페라떼
+|---|---|
+|Programing Languages|JavaScript(ES6) , TailWind CSS|
+|Framework/ Library|React, Multer, Swagger|
+|Server|Express, MySQL, MS-SQL, Nginx|
+|Tool|Docker, Github|
+|Environment|AWS EC2, AWS RDS, Linux, Window|
+|Co-operation|Trello|
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ring-wdr&show_icons=true&theme=solarized-light)
