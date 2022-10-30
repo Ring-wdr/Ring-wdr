@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning JavaScript(ES6) and looking for job using JavaScript.
 
-|구분|카페라떼
+|구분|
 |---|---|
 |Programing Languages|JavaScript(ES6) , TailWind CSS|
 |Framework/ Library|React, Multer, Swagger|
