@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 |Co-operation|Trello|
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ring-wdr&show_icons=true&theme=solarized-light)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enne123)](https://solved.ac/enne123/)
