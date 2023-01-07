@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 |Framework/ Library|React, Next.js, React-query, Multer, Swagger|
 |Server|Express, MySQL, MS-SQL, Nginx|
 |Tool|Docker, Github|
+|Test Framework|Jest|
 |Co-operation|Trello|
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ring-wdr&show_icons=true&theme=solarized-light)
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp;
