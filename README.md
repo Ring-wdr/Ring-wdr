@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning JavaScript(ES6) and looking for WEB FrontEnd position.
+- 🌱 Hi! I’m working on WEB FrontEnd position.
 
 |구분|skill|
 |---|---|
