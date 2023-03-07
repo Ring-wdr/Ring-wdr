@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 |구분|skill|
 |---|---|
 |Programing Languages|JavaScript(ES6), TypeScript, TailWind CSS|
-|Framework/ Library|React, Next.js, React-query, Multer, Swagger|
+|Framework/ Library|React, Next.js, React-query, Multer, Swagger, Zustand, SvelteKit|
 |Server|Express, MySQL, MS-SQL, Nginx|
-|Tool|Docker, Github|
+|Tool|Docker, Github, GitLab|
 |Test Framework|Jest|
 |Co-operation|Trello, storybook|
 
