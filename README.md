@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Hi! I’m working on WEB FrontEnd position.
+- 🌱 Hi! I’m <ruby>Ring-wdr<rp>(</rp><rt>ringwanderung</rt><rp>)</rp>
+</ruby> and working on WEB FrontEnd position.
+
 
 |구분|skill|
 |---|---|
