@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 |Test Framework|Jest|
 |Co-operation|Trello, storybook|
 
-![Anurag's GitHub stats](https://github-readme-stats-dz98e8bcb-ringwdrs-projects.vercel.app/api?username=Ring-wdr&show_icons=true&theme=solarized-light)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enne123)](https://solved.ac/enne123/)
 
 
